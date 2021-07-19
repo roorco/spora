@@ -1,0 +1,4 @@
+1626563990
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"news";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:10:"Carpophore";s:7:"content";a:1:{s:5:"items";s:14:"@self.children";}}s:11:"frontmatter";s:52:"title: Carpophore
+content:
+  items: '@self.children'";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:4:"news";s:11:"storage_key";s:7:"02.news";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1626561724;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1626561724;}}s:8:"children";a:2:{s:23:"2021_07_01_habitatSpora";b:0;s:18:"2021_07_17_macLyon";b:0;}s:8:"checksum";s:32:"2191ae903b6a2ce9f20a52bd5db6fe4a";}}

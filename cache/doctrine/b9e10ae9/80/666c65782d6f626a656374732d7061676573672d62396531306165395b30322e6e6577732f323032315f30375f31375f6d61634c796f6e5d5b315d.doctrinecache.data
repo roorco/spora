@@ -1,0 +1,9 @@
+1626564624
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"news/2021_07_17_maclyon";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:17:"Spora au Mac Lyon";s:4:"date";s:10:"08-07-2021";}s:11:"frontmatter";s:41:"title: Spora au Mac Lyon
+date: 08-07-2021";s:8:"markdown";s:462:"SPORA studio est presente au Musée d'Art Contemporaine de Lyon depuis le 04 Juliet dans le cadre de la residence *Opera Wonder* organisé par Pierre Gaignard dans l'exposition *IRL*èRL.
+Dans Opera Wonder parti du collectif *Le Wonder* habite la salle d'exposition au première étage du musée du 04 au 18 Juliet.
+SPORA studio a installé un seaux de pleurotes bleu. Opera Wonder est à Lyon jusqu'au 18 Juliet, visitez le!
+
+![Spora au Mac Lyon](macLyon.jpg)
+
+";}s:7:"storage";a:6:{s:3:"key";s:23:"news/2021_07_17_maclyon";s:11:"storage_key";s:26:"02.news/2021_07_17_macLyon";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1626562590;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1626562590;}}s:8:"checksum";s:32:"044d668b6497bb5af94e3d78a9b4bf9c";}}

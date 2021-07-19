@@ -1,0 +1,84 @@
+$color-earth: burlywood;
+$color-back: floralwhite;
+$color-dark: wheat;
+$color-accent: brown;
+$color-accmin: chocolate;
+$color-neutral: black;
+$base-font: 'Overpass', sans-serif, -apple-system,system-ui,BlinkMacSystemFont;
+$title-font: 'M PLUS Rounded 1c', sans-serif, -apple-system,system-ui,BlinkMacSystemFont;
+
+h1, h2, h3, h4, h5, {
+    font-family: $title-font;
+    color: $color-neutral;
+ }
+ btn {
+    color: $color-neutral;
+ }
+
+body {
+    font-family: $base-font;
+    background: $color-back;
+}
+
+#header {
+    font-size: .8rem;
+}
+
+.mobile-menu .button_container span{ 
+    background: $color-earth; 
+}
+
+.overlay-menu {
+    background: $color-dark;
+}
+
+a {
+    color: $color-accmin !important;
+}
+
+a.active, a:active, a:focus, a:hover {
+    color: $color-earth !important;
+}
+
+
+.treemenu li a.active,
+.treemenu li a:focus,
+.treemenu li a.hover {
+    color: $color-accent !important;
+}
+
+.dropmenu ul li a.active, 
+.dropmenu ul li a:focus, 
+.dropmenu ul li a:hover {
+    color: $color-accent !important;
+}
+
+ul li a.active, 
+ul li a:focus, 
+ul li a:hover {
+    color: $color-accent !important;
+}
+
+
+//.color-menu > a.active, 
+.color-menu > a:focus, 
+.color-menu > a:hover {
+    color: $color-accent !important;
+}
+
+.card {
+    background: $color-back;
+}
+
+.btn, button {
+    border-color: $color-earth;
+} 
+
+.btn:focus, .btn:hover, .button:focus, .button:hover {
+    background: ghostwhite;
+    border-color: $color-earth !important;
+}
+.center {
+    margin: 5rem auto;
+    text-align: center;
+}

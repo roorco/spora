@@ -1,0 +1,6 @@
+enabled: true
+production: false
+dropdown:
+  enabled: true
+custom_logo:
+  - name: logo.svg

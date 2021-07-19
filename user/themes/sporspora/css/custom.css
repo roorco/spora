@@ -1,0 +1,60 @@
+h1, h2, h3, h4, h5 {
+  font-family: "M PLUS Rounded 1c", sans-serif, -apple-system, system-ui, BlinkMacSystemFont;
+  color: black; }
+
+btn {
+  color: black; }
+
+body {
+  font-family: "Overpass", sans-serif, -apple-system, system-ui, BlinkMacSystemFont;
+  background: floralwhite; }
+
+#header {
+  font-size: .8rem; }
+
+.mobile-menu .button_container span {
+  background: burlywood; }
+
+.overlay-menu {
+  background: wheat; }
+
+a {
+  color: chocolate !important; }
+
+a.active, a:active, a:focus, a:hover {
+  color: burlywood !important; }
+
+.treemenu li a.active,
+.treemenu li a:focus,
+.treemenu li a.hover {
+  color: brown !important; }
+
+.dropmenu ul li a.active,
+.dropmenu ul li a:focus,
+.dropmenu ul li a:hover {
+  color: brown !important; }
+
+ul li a.active,
+ul li a:focus,
+ul li a:hover {
+  color: brown !important; }
+
+.color-menu > a:focus,
+.color-menu > a:hover {
+  color: brown !important; }
+
+.card {
+  background: floralwhite; }
+
+.btn, button {
+  border-color: burlywood; }
+
+.btn:focus, .btn:hover, .button:focus, .button:hover {
+  background: ghostwhite;
+  border-color: burlywood !important; }
+
+.center {
+  margin: 5rem auto;
+  text-align: center; }
+
+/*# sourceMappingURL=custom.css.map */

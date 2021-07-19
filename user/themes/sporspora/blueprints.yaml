@@ -1,0 +1,18 @@
+name: Sporspora
+slug: sporspora
+type: theme
+version: 0.1.0
+description: Spora custom theme
+icon: rebel
+author:
+  name: Roberto Dell&#039;Orco
+  email: roorco@gmail.com
+homepage: https://github.com/roorco/grav-theme-sporspora
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/roorco/grav-theme-sporspora/issues
+readme: https://github.com/roorco/grav-theme-sporspora/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

@@ -1,0 +1,8 @@
+1626563990
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:28:"news/2021_07_01_habitatspora";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:13:"Habitat Spora";s:4:"date";s:10:"04-07-2021";}s:11:"frontmatter";s:37:"title: Habitat Spora
+date: 04-07-2021";s:8:"markdown";s:433:"Bonjour, premiere post sur ce blog  de l'association SPORA.
+L'association récemment participé à l'appelle à projet de la Fondation Paris Habitat "PRÉSERVATION ET DÉVELOPPEMENT DE LA BIODIVERSITÉ".
+On est très content de pouvoir vous dire que notre projet "Habitat SPORA" a été sélectionné dans la première phase du projet.
+On est au travail pour pouvoir participer à la deuxième phase.
+À bientôt pour des nouvelles.
+";}s:7:"storage";a:6:{s:3:"key";s:28:"news/2021_07_01_habitatspora";s:11:"storage_key";s:31:"02.news/2021_07_01_habitatSpora";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1626543604;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1626543604;}}s:8:"checksum";s:32:"e92df4ffb6efd03468b714227de77b65";}}

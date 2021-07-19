@@ -1,0 +1,9 @@
+1626564029
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:9:"Mycorhize";s:12:"body_classes";s:23:"title-center title-h1h2";}s:11:"frontmatter";s:54:"title: Mycorhize
+body_classes: title-center title-h1h2";s:8:"markdown";s:814:"Roberto Dell'Orco artiste, paysagiste, travaille autour du vivant, explorant les relations entre notre individualité et le monde qui nous entoure. Président de l’Association SPORA et résident aux Ateliers Wonder.  Développe depuis quelques années des projets d’action recherche sur le paysage, fait pousser des champignons depuis 6 mois dans le sous sol du Wonder.
+[roorco@gmail.com](mailto:roorco@gmail.com)  
+
+Charlotte Janis : artiste plasticienne, cofondatrice des Ateliers Wonder et vice-présidente de l’Association SPORA. Son travail se concentre principalement depuis 2 ans sur le vivant, les algues et les lichens en Bretagne. Elle donne des workshops de cinéma d’animation dans différentes écoles, d’art et de design. 
+[rabuteaucharlotte@gmail.com](mailto:rabuteaucharlotte@gmail.com)
+
+";}s:7:"storage";a:6:{s:3:"key";s:7:"contact";s:11:"storage_key";s:10:"03.contact";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1626561694;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1626561694;}}s:8:"checksum";s:32:"67522d3efdca1fc75026d6e7500b1405";}}
